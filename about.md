@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jiffy Park; Co-Founder of DS Games
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Pushing the limits of fashion, Jiffy jaf jifs the jaf. He jafs the jif all over the jiffity jaf. Jiffy jiff, jiffy jam. Jiffy jim jim jimmy jam.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+https://discord.gg/xUGWqP7t
