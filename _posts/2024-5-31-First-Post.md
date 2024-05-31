@@ -7,7 +7,7 @@ First blog post; just dumping a bunch of photos of the developement so far.
 
 Some videos too... I'm not sure how to embed them yet.
 
-Let's add a bunch of photos in here from the 240531 folder:
+Let's add a bunch of photos in here from the 240531 folder: 
   
 None of these show any of the trees, bushes, or grass, that I've done. The procedurally generated trees are particuarly nice. I'll have to show them off in future posts. I plan to make them all a lot better. It'll be a while; going to get the new biomes framework in first that'll hopefully make it easy for me and others to add new biomes, trees, bushes, rocks, buildings, textures, road types, etc.
 
